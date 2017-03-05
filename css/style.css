@@ -1,0 +1,48 @@
+/*selector {
+	property: value;
+}*/
+
+body {
+background-color: red;	
+}
+p{
+	color: cyan
+}
+img{
+	height: 1000px;
+	width:1000px;
+}
+iframe{
+		border-style:ridge;
+		border-color #b9ceba;
+		border-width: 40px ;
+		border-radius: 6px;
+
+}
+/*this is for specific things in a class*/
+.A{
+	font-family: ""
+}
+.uno{
+		border-style:ridge;
+		border-color: green;
+		border-width: 40px ;
+		border-radius: 6px;
+
+}
+.dos
+{
+		border-style:double;
+		border-color:pink;
+		border-width: 40px ;
+		border-radius: 6px;
+
+}
+.tres
+{
+		border-style:dashed;
+		border-color:orange;
+		border-width: 40px ;
+		border-radius: 6px;
+
+}
